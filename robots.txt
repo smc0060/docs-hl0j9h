@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-l7u2o8.1casino.co.nz/sitemap.xml
